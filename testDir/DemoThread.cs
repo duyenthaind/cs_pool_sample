@@ -36,7 +36,8 @@ namespace DemoMultiThread.testDir
                         if (currentTime < entry.Value)
                         {
                             Console.WriteLine($"Processed id: {entry.Key}, removing {entry.Key} from cached");
-                            CONCURRENT_CACHE.TryRemove(entry);
+                            CONCURRENT_CACHE.TryRemove(entry.Key, out var isOk);
+                            Console.WriteLine($"JOB_QUEUE size: {CONCURRENT_CACHE.Count}");
                         }
                         else
                         {

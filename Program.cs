@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 using System.Timers;
 using DemoMultiThread.testDir;
 
@@ -20,6 +21,7 @@ namespace DemoMultiThread
             CustomBaseThread.PubJob("DemoThread", -1, new PlainJob("id1", DateTime.Now.Millisecond + 100));
             CustomBaseThread.PubJob("DemoThread", -1, new PlainJob("id2", DateTime.Now.Millisecond + 100));
             
+            Thread.Sleep(TimeSpan.FromSeconds(10));
             CustomBaseThread.StopAllWorker();
         }
     }
