@@ -1,0 +1,16 @@
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread.deps.json
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread.runtimeconfig.json
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread.runtimeconfig.dev.json
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread.dll
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/ref/DemoMultiThread.dll
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/bin/Debug/net5.0/DemoMultiThread.pdb
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.csproj.AssemblyReference.cache
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.GeneratedMSBuildEditorConfig.editorconfig
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.AssemblyInfoInputs.cache
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.AssemblyInfo.cs
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.csproj.CoreCompileInputs.cache
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.dll
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/ref/DemoMultiThread.dll
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.pdb
+/home/duyenthai/Data/Workspaces/Local/C#Projects/DemoMultiThread/DemoMultiThread/obj/Debug/net5.0/DemoMultiThread.genruntimeconfig.cache
